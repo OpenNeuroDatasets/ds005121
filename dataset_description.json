@@ -1,0 +1,14 @@
+{
+  "BIDSVersion": "1.2",
+  "Authors": [
+    "Elizabeth M. Siefert",
+    "Sindhuja Uppuluri",
+    "Jianing Mu",
+    "Marlie C. Tandoc",
+    "James W. Antony",
+    "Anna C. Schapiro"
+  ],
+  "Name": "Siefert2024",
+  "DatasetType": "raw",
+  "HowToAcknowledge": "Please cite Siefert et al., 2024 (JNeuro)"
+}
