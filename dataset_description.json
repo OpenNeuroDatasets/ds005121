@@ -10,7 +10,7 @@
     ],
     "Name": "Siefert2024",
     "DatasetType": "raw",
-    "HowToAcknowledge": "Please cite the paper: \nE.M. Siefert, S. Uppuluri, J. Mu., M.C. Tandoc, J.W. Antony, A.C. Schapiro (2024). Memory reactivation during sleep does not act holistically on object memory. Journal of Neuroscience, 10.1523/JNEUROSCI.0022-24.2024",
+    "HowToAcknowledge": "Please cite: \nE.M. Siefert, S. Uppuluri, J. Mu., M.C. Tandoc, J.W. Antony, A.C. Schapiro (2024). Memory reactivation during sleep does not act holistically on object memory. Journal of Neuroscience, 10.1523/JNEUROSCI.0022-24.2024",
     "DatasetDOI": "doi:10.18112/openneuro.ds005121.v1.0.1",
     "License": "CC0"
 }
